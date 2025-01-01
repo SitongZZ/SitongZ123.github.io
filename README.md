@@ -1,5 +1,5 @@
-# Lil'Log
+# Sitt'Log
 
-Lilian's Blog: [https://lilianweng.github.io/lil-log/](https://lilianweng.github.io/lil-log/)
+Sitt's Blog: [https://SitongZZ.github.io]
 
 Deprecated now.
