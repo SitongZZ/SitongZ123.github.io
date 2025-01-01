@@ -1,5 +1,5 @@
 # Sitt'Log
 
-Sitt's Blog: [https://SitongZZ.github.io]
+Sitt's Blog: [https://SitongZ123.github.io]
 
 Deprecated now.
